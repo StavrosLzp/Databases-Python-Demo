@@ -1,0 +1,10 @@
+INSERT INTO students (first_name,last_name,email) VALUES ("Anthony", "Smith", "robertthomas@example.com");
+INSERT INTO students (first_name,last_name,email) VALUES ("Antonio", "Ponce", "mialawrence@example.org");
+INSERT INTO students (first_name,last_name,email) VALUES ("Christine", "Cantrell", "barrysara@example.com");
+INSERT INTO students (first_name,last_name,email) VALUES ("Gina", "Hudson", "wmays@example.net");
+INSERT INTO students (first_name,last_name,email) VALUES ("Gerald", "Perez", "tholmes@example.org");
+INSERT INTO students (first_name,last_name,email) VALUES ("Scott", "Davis", "holtjohn@example.net");
+INSERT INTO students (first_name,last_name,email) VALUES ("Melissa", "Anderson", "susan90@example.com");
+INSERT INTO students (first_name,last_name,email) VALUES ("Tyler", "Davis", "gregorygomez@example.com");
+INSERT INTO students (first_name,last_name,email) VALUES ("Allen", "Vasquez", "cstout@example.com");
+INSERT INTO students (first_name,last_name,email) VALUES ("Steven", "Horne", "elizabeth55@example.org");
