@@ -78,6 +78,6 @@ INSERT INTO `students` VALUES ('7', 'Charlotte', 'Shanahan', 'Damon_Cremin@yahoo
 INSERT INTO `students` VALUES ('8', 'Pete', 'Bauch', 'Aisha55@yahoo.com');
 INSERT INTO `students` VALUES ('9', 'Lori', 'Baumbach', 'Jude8@yahoo.com');
 INSERT INTO `students` VALUES ('10', 'Ignacio', 'Kuhn', 'Shea_Hayes@hotmail.com');
-INSERT INTO `students` VALUES ('11', 'Marsha', 'O\'Kon', 'Brigitte_Macejkovic@gmail.com');
+INSERT INTO `students` VALUES ('11', 'Marsha', 'OKon', 'Brigitte_Macejkovic@gmail.com');
 INSERT INTO `students` VALUES ('12', 'Lora', 'Mann', 'Orland_Welch@hotmail.com');
 SET FOREIGN_KEY_CHECKS=1;
