@@ -18,6 +18,7 @@ SET FOREIGN_KEY_CHECKS=0;
 -- ----------------------------
 -- Create database
 -- ----------------------------
+DROP schema if exists demo;
 CREATE SCHEMA demo;
 USE demo;
 
